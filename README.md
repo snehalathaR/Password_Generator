@@ -16,7 +16,7 @@ The Password Generator is a web application designed to generate passwords in a 
 To use the Password Generator, simply clone the repository to your local machine:
 
 ```
-git clone https://github.com/your_username/password-generator.git
+git clone https://github.com/snehalathaR/Password_Generator.git
 ```
 
 Then, open the `index.html` file in your preferred web browser.
@@ -45,7 +45,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Acknowledgements
 
-Special thanks to [Your Name] for their valuable contributions to this project.
+Special thanks to Snehalatha for their valuable contributions to this project.
 
 ---
 
